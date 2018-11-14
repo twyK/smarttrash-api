@@ -1,0 +1,16 @@
+{
+  "name": "device-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
